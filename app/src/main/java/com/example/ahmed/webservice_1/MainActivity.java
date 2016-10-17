@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-
+        update();
     }
 
     public void update(){}
