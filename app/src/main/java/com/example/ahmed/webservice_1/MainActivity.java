@@ -60,16 +60,8 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-        update();
-    }
-
-    public void update(){
-        System.out.println("hello");
 
     }
 
-    public void update(int i){
-        System.out.println("hello");
 
-    }
 }
